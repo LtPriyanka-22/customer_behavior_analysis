@@ -38,6 +38,7 @@ Evaluated impact of shipping type on purchasing behavior
 **Output**
 
 ![image_alt]{https://github.com/LtPriyanka-22/customer_behavior_analysis/blob/main/Screenshot%202026-03-29%20110205.png?raw=true}
+
 Interactive Power BI Dashboard
 Visual reports on revenue, sales, and customer behavior
 Actionable business insights for decision-making
