@@ -37,7 +37,7 @@ Evaluated impact of shipping type on purchasing behavior
 
 **Output**
 
-![image_alt]{https://github.com/LtPriyanka-22/customer_behavior_analysis/blob/96a2b37f092b6c05f64d492e8190df7793bbe9fe/dashboard.pbix}
+![Alt_text]{https://github.com/LtPriyanka-22/customer_behavior_analysis/blob/96a2b37f092b6c05f64d492e8190df7793bbe9fe/dashboard.pbix}
 
 **How to Run This Project**
 
